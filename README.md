@@ -24,8 +24,7 @@ Prepare a presentation that visually communicates insights and actionable recomm
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+   https://github.com/Aaru2808/DATA-ANALYSIS-PROJECT.git
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
